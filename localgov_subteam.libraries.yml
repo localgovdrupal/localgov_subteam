@@ -1,0 +1,4 @@
+variables:
+  css:
+    theme:
+      css/variables.css: {}
