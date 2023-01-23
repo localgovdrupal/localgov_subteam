@@ -1,3 +1,7 @@
+ARCHIVED: Please do not use this repository. 
+
+The https://github.com/localgovdrupal/localgov_scarfolk is a good example of a subtheme.
+
 ---
 title: LocalGov Subteam
 ---
